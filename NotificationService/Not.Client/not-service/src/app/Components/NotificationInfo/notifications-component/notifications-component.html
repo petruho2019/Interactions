@@ -1,0 +1,21 @@
+<div
+  style="
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+  "
+>
+  <input class="username-input" type="text" placeholder="Введите сообщение" [(ngModel)]="message" />
+  <input
+    class="username-input"
+    type="text"
+    placeholder="Введите username получателя"
+    [(ngModel)]="username"
+  />
+
+  <button (click)="sendNotification()">Отправить</button>
+</div>

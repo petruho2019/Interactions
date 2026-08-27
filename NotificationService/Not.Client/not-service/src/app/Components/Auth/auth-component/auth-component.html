@@ -1,0 +1,15 @@
+<div
+  style="
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+  "
+>
+  <input class="username-input" type="text" placeholder="Введите username" [(ngModel)]="username" />
+
+  <button (click)="login()">Логин</button>
+</div>
