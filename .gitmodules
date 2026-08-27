@@ -1,0 +1,3 @@
+[submodule "NotificationService/Not.Client/not-service"]
+	path = NotificationService/Not.Client/not-service
+	url = https://github.com/petruho2019/Interactions.git
