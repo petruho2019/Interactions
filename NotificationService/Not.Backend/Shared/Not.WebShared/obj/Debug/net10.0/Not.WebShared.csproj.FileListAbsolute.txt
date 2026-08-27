@@ -1,0 +1,12 @@
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\bin\Debug\net10.0\Not.WebShared.deps.json
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\bin\Debug\net10.0\Not.WebShared.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\bin\Debug\net10.0\Not.WebShared.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.csproj.AssemblyReference.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.AssemblyInfoInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.AssemblyInfo.cs
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\refint\Not.WebShared.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\Not.WebShared.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.WebShared\obj\Debug\net10.0\ref\Not.WebShared.dll

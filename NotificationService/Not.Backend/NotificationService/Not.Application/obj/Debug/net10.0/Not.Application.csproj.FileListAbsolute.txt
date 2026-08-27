@@ -1,0 +1,17 @@
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.Application.deps.json
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.Application.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.Application.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.Contracts.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.RabbitMq.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.Contracts.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\bin\Debug\net10.0\Not.RabbitMq.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.csproj.AssemblyReference.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.AssemblyInfoInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.AssemblyInfo.cs
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Appl.F37DF465.Up2Date
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\refint\Not.Application.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\Not.Application.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\NotificationService\Not.Application\obj\Debug\net10.0\ref\Not.Application.dll

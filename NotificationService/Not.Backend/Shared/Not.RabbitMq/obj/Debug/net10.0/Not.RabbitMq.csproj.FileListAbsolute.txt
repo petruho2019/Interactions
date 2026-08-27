@@ -1,0 +1,12 @@
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\bin\Debug\net10.0\Not.RabbitMq.deps.json
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\bin\Debug\net10.0\Not.RabbitMq.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\bin\Debug\net10.0\Not.RabbitMq.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.csproj.AssemblyReference.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.AssemblyInfo.cs
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\refint\Not.RabbitMq.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\Not.RabbitMq.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.RabbitMq\obj\Debug\net10.0\ref\Not.RabbitMq.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsjANtniUTw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladg\\source\\repos\\Interractions\\Kafka\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladg\\.nuget\\packages\\confluent.kafka\\2.15.0\\confluent.kafka.2.15.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\librdkafka.redist\\2.15.0\\librdkafka.redist.2.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

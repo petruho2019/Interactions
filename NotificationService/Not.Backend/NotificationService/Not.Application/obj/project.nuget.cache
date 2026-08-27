@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6vF5UTboYg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.Application\\Not.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit\\8.0.0\\masstransit.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.abstractions\\8.0.0\\masstransit.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.rabbitmq\\8.0.0\\masstransit.rabbitmq.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.3.0\\microsoft.aspnetcore.authorization.policy.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.3.0\\microsoft.aspnetcore.connections.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.server.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.9\\microsoft.aspnetcore.http.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http.connections\\1.2.0\\microsoft.aspnetcore.http.connections.1.2.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\1.2.0\\microsoft.aspnetcore.http.connections.common.1.2.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.10\\microsoft.aspnetcore.http.extensions.2.3.10.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.3.0\\microsoft.aspnetcore.routing.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.12\\microsoft.aspnetcore.signalr.1.2.12.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\1.2.0\\microsoft.aspnetcore.signalr.common.1.2.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.2.0\\microsoft.aspnetcore.signalr.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.2.0\\microsoft.aspnetcore.signalr.protocols.json.1.2.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.websockets\\2.3.11\\microsoft.aspnetcore.websockets.2.3.11.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.3.0\\microsoft.aspnetcore.webutilities.2.3.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.1\\microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.11\\microsoft.extensions.objectpool.8.0.11.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.net.http.headers\\2.3.9\\microsoft.net.http.headers.2.3.9.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\riok.mapperly\\4.3.1\\riok.mapperly.4.3.1.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\system.net.websockets.websocketprotocol\\5.1.0\\system.net.websockets.websocketprotocol.5.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.Application\\Not.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.Application\\Not.Application.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

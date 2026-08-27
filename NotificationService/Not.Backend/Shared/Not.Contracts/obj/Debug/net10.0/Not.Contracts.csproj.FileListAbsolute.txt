@@ -1,0 +1,15 @@
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\bin\Debug\net10.0\Not.Contracts.deps.json
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\bin\Debug\net10.0\Not.Contracts.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\bin\Debug\net10.0\Not.Contracts.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\bin\Debug\net10.0\Not.RabbitMq.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\bin\Debug\net10.0\Not.RabbitMq.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.csproj.AssemblyReference.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.AssemblyInfoInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.AssemblyInfo.cs
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Cont.C3B845B7.Up2Date
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\refint\Not.Contracts.dll
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\Not.Contracts.pdb
+C:\Users\vladg\source\repos\Interractions\NotificationService\Not.Backend\Shared\Not.Contracts\obj\Debug\net10.0\ref\Not.Contracts.dll

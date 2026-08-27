@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QTBC7ShpEE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\Shared\\Not.RabbitMq\\Not.RabbitMq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit\\8.0.0\\masstransit.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.abstractions\\8.0.0\\masstransit.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.rabbitmq\\8.0.0\\masstransit.rabbitmq.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.18\\microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.18\\microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.18\\microsoft.extensions.fileproviders.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.18\\microsoft.extensions.hosting.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.options\\3.1.18\\microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.18\\microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

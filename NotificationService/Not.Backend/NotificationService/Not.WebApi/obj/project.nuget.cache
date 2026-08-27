@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuGbHn8U7/8=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.WebApi\\Not.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit\\8.0.0\\masstransit.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.abstractions\\8.0.0\\masstransit.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\masstransit.rabbitmq\\8.0.0\\masstransit.rabbitmq.8.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.12\\microsoft.aspnetcore.signalr.1.2.12.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\vladg\\.nuget\\packages\\riok.mapperly\\4.3.1\\riok.mapperly.4.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "c:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.WebApi\\Not.WebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "c:\\Users\\vladg\\source\\repos\\Interractions\\NotificationService\\Not.Backend\\NotificationService\\Not.WebApi\\Not.WebApi.csproj",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
